@@ -1,5 +1,7 @@
 import java.util.Scanner; 
 
+// http://www.gailer-net.de/tutorials/java/Notes/chap10/progExercises10.html | Aufgabe 1 — Fläche eines Kreises
+
 public class KreisFlaeche {
        
   public static void main( String[] args ) {
@@ -17,7 +19,7 @@ public class KreisFlaeche {
     double flaeche = Math.PI * radius * radius;
     
     // Ausgabe
-    System.out.println("Der Radius ist: " + radius + " Die Fl�che betr�gt: " + flaeche);
+    System.out.println("Der Radius ist: " + radius + " Die Fläche beträgt: " + flaeche);
     
   }     
   
