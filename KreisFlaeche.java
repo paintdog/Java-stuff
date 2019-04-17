@@ -6,7 +6,7 @@ public class KreisFlaeche {
        
   public static void main( String[] args ) {
     
-    // Eigabe
+    // Eingabe
     System.out.println("Geben Sie den Radius ein:");
     
     Scanner sc = new Scanner(System.in);
