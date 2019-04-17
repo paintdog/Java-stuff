@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-
-// http://www.gailer-net.de/tutorials/java/Notes/chap10/progExercises10.html | Aufgabe 2 — Cent zu Dollar
-
+// http://www.gailer-net.de/tutorials/java/Notes/chap10/progExercises10.html | Aufgabe 2 â€” Cent zu Dollar
 
 public class Cent2Dollar {
   
